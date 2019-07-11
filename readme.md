@@ -18,6 +18,6 @@ from tkinter import messagebox.
 ### Run All Together
 The file website-blocker.py is the final file.
 ```
-python3 website-blocker.py
+python3 back(final 12-10).py
 ```
 
